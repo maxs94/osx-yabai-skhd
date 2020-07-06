@@ -8,6 +8,7 @@ howto: https://piratefache.ch/chunkwm-is-dead-reborn-as-yabai/
  - Yabai https://github.com/koekeishiya/yabai#install
  - SKHD (Keyboard Shortcuts) https://github.com/koekeishiya/skhd
  - iTerm2 https://github.com/gnachman/iTerm2
+ - dmenu-mac https://github.com/oNaiPs/dmenu-mac
  
  - Copy the yabairc file from this repository to ~/.yabairc 
  - Copy the skhdrc file from this repository to ~/.skhdrc 
