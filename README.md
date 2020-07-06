@@ -12,6 +12,8 @@ howto: https://piratefache.ch/chunkwm-is-dead-reborn-as-yabai/
  - Copy the yabairc file from this repository to ~/.yabairc 
  - Copy the skhdrc file from this repository to ~/.skhdrc 
  
+ - Create your spaces to use in MacOS: (Mission Control -> Add spaces)
+ 
  restart yabai and skhd
  ```
  $ brew services restart yabai
