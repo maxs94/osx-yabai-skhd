@@ -13,3 +13,6 @@ howto: https://piratefache.ch/chunkwm-is-dead-reborn-as-yabai/
 you might want to change the shortcut for taking screenshots as CMD - SHIFT + 4 sends the focussed window to space #4
 
 -> System Preferences -> Keyboard -> Shortcuts -> Screenshots
+
+# Screenshot
+![screen](/screen.png?raw=true)
